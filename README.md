@@ -6,6 +6,12 @@ By running through this application you can not only learn what bioinformatics i
 Why did I add this program to GitHub? 
 I am hoping you might improve this software and use it to teach students about bioinformatics. By adding my code here I have more potential of my application, modified or not, getting into the hands of a high school student and introducing them to bioinformatics. That would be a win for me. 
 
+main.py is the starting code to start the application
+menu.py is the starting window of the application
+coreConcepts.py is a window showing the biology concepts that will be discussed during the main application
+Preview.py is a preview of what you will see in the main window of the application
+bio_ide_v2.py is the main application window. It looks and acts like a python IDE that is run locally on your computer
+
 If you are a teacher or student acessing this application here is the ReadMe for the application:
 _________________________________________
 Genome Uncovered
