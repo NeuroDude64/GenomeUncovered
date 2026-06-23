@@ -16,6 +16,8 @@ Preview.py is a preview of what you will see in the main window of the applicati
 
 bio_ide_v2.py is the main application window. It looks and acts like a python IDE that is run locally on your computer
 
+
+
 If you are a teacher or student acessing this application here is the ReadMe for the application:
 _________________________________________
 Genome Uncovered
