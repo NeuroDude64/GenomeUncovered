@@ -1,10 +1,10 @@
 # GenomeUncovered
 This is a program I developed to introduce high school students, and some exceptional middle school students, to bioinformatics. 
 
-By running through this application you can not only learn what bioinformatics is, but flex your critical thinking by solving some bioinformatics problems without knowing how to code at all. 
+By running through this application you can not only learn what bioinformatics is, but flex your critical thinking by solving some bioinformatics problems without needing to know how to code. 
 
 Why did I add this program to GitHub? 
-I am hoping you might improve this software and use it to teach students about bioinformatics. By adding my code here I have more potential of my application, modifiedd or not, getting into the hands of a high school student and introducing them to bioinformatics. That would be a win for me. 
+I am hoping you might improve this software and use it to teach students about bioinformatics. By adding my code here I have more potential of my application, modified or not, getting into the hands of a high school student and introducing them to bioinformatics. That would be a win for me. 
 
 If you are a teacher or student acessing this application here is the ReadMe for the application:
 _________________________________________
